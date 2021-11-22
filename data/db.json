@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create a new homepage banner",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "make marketing email",
+      "details": "lorem ipsum dolar",
+      "complete": false
+    },
+    {
+      "title": "design",
+      "details": "design a new website",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "database",
+      "details": "design a whole new database",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
